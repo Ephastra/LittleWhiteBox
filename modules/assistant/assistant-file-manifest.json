@@ -2029,7 +2029,7 @@
       "publicPath": "scripts/extensions/third-party/LittleWhiteBox/modules/draw/shared/agent-settings-surface.js",
       "relativePath": "modules/draw/shared/agent-settings-surface.js",
       "extension": ".js",
-      "sizeBytes": 12193
+      "sizeBytes": 12479
     },
     {
       "source": "littlewhitebox",
@@ -3121,7 +3121,7 @@
       "publicPath": "scripts/extensions/third-party/LittleWhiteBox/modules/draw/shared/tests/agent-settings-surface-presets.test.js",
       "relativePath": "modules/draw/shared/tests/agent-settings-surface-presets.test.js",
       "extension": ".js",
-      "sizeBytes": 6761
+      "sizeBytes": 6264
     },
     {
       "source": "littlewhitebox",
@@ -17248,6 +17248,13 @@
       "relativePath": "scripts/build-material-symbols-names.mjs",
       "extension": ".mjs",
       "sizeBytes": 1314
+    },
+    {
+      "source": "littlewhitebox",
+      "publicPath": "scripts/extensions/third-party/LittleWhiteBox/scripts/build-nocheck.mjs",
+      "relativePath": "scripts/build-nocheck.mjs",
+      "extension": ".mjs",
+      "sizeBytes": 1915
     },
     {
       "source": "littlewhitebox",
